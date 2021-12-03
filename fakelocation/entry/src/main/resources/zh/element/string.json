@@ -1,0 +1,33 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "mainability_start_locate",
+      "value": "开始定位"
+    },
+    {
+      "name": "mainability_stop_locate",
+      "value": "停止定位"
+    },
+    {
+      "name": "mainability_locate_information",
+      "value": "位置信息"
+    }
+  ,
+    {
+      "name": "mainability_location_information",
+      "value": "地理位置信息"
+    }
+  ]
+}
